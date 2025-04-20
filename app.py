@@ -38,7 +38,7 @@ else:
 # Available agents
 AGENTS = {
     "Fundamentals": fundamentals_agent,
-    "Technicals": technicals_agent,
+    "Technicals": technical_analyst_agent,
     "Valuation": valuation_agent,
     "Sentiment": sentiment_agent,
     "Risk Manager": risk_management_agent,
