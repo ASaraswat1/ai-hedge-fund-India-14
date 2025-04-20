@@ -1,0 +1,15 @@
+streamlit
+yfinance
+pandas
+numpy
+matplotlib
+python-dateutil
+openai
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langgraph
+langgraph-sdk
+questionary
+colorama
